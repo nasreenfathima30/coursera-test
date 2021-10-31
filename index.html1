@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Module2 Assignment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+    <h1>Our Menu</h1>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <section>
+            <h2 id="chicken">Chicken</h2>
+            <ul>
+                <li>grilled chicken with veggies and cheese </li>
+                <li>west african chicken stew with hot sauce dip</li>
+                <li>greek chicken with green beans</li>
+                <li>slow cooked italian chicken</li>
+                <li>chicken stroganoff and thai chicken thighs</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <section>
+            <h2 id="pork">fish</h2>
+            <ul>
+                <li>Indonesian noodles with fish </li>
+                <li>fish garlic  Gravy</li>
+                <li>fish and miso pie maker dumplings</li>
+                <li>thai green chilli tray bake fish with beans</li>
+                <li>roast fish with date and hurb stuffings and BBQ Sauce</li>
+                <li>creamy french fish with papaya salsa</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="col-lg-4 col-md-12 col-sm-12">
+        <section>
+            <h2 id="steak">mutton</h2>
+            <ul>
+                <li>mutton curry and eggs</li>
+                <li>creamy mutton fettuccine</li>
+                <li>air fryer mutton with veggie salsa</li>
+                <li>flank mutton with chimichurri</li>
+                <li>croak pot pepper mutton </li>
+                <li>best ever swiss mutton with chilli sauce</li>
+            </ul>
+        </section>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12">
+        <p>Github repository for this assignment can be found
+            <a href="https://github.com/nasreenfathima30/Coursera-web-development/tree/master/module2_solution" target="_blank">here</a>.
+        </p>
+    </div>
+</body>
+
+</html>
